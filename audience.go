@@ -18,10 +18,8 @@ func (a *Audience) Interface() interface{} {
 	return a.Value
 }
 
-func (a *Audience) SetAll(b bool) *Audience {
-	if b {
-		a.IsAll = true
-	}
+func (a *Audience) All() *Audience {
+	a.IsAll = true
 	return a
 }
 
