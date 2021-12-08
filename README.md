@@ -11,7 +11,7 @@
 
 ### 安装
 
-    go get github.com/zwczou/jpush
+    go get github.com/ib1ack/jpush
 
 ### 使用
 

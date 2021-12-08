@@ -1,4 +1,4 @@
-module github.com/zwczou/jpush
+module github.com/ib1ack/jpush
 
 go 1.15
 
